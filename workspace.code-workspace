@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "projects",
+			"path": ".."
+		},
+		{
+			"name": "pipThreads",
+			"path": "../../Downloads/pipThreads"
+		}
+	],
+	"settings": {}
+}
